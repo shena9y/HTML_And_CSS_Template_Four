@@ -7,6 +7,8 @@ A complete, multi-page admin dashboard UI built with pure HTML & CSS. Built as t
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
 ![Elzero Web School](https://img.shields.io/badge/Elzero%20Web%20School-Template%204-blue?style=for-the-badge)
 
+🔗 **Live Demo:** [https://shena9y.github.io/HTML_And_CSS_Template_Four/](https://shena9y.github.io/HTML_And_CSS_Template_Four/)
+
 ## ✨ Features
 
 - 📊 **7 complete pages** — Dashboard, Settings, Profile, Projects, Courses, Friends, Files & Plans
